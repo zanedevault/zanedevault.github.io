@@ -1,5 +1,16 @@
-# Markdown Homepage test
+# Dev Notes & Learning Plan
 
-## list of links to other pages
-- [dev notes](/dev-notes/index.md)
-- [react](/dev-notes/react.md)
+## Dev Notes
+
+- [Command Line / Terminal](./dev-notes/command-line.md)
+- [JavaScript](./dev-notes/javascript.md)
+- [React](./dev-notes/react.md)
+- [Testing](./dev-notes/testing.md)
+
+## Learning Plan
+
+- [thing](/thing.md)
+
+## Markdown Resource
+
+<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Markdown Guide Basic Syntax</a>
