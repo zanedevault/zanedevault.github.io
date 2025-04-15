@@ -9,7 +9,7 @@
 
 ## Learning Plan
 
-- [thing](/thing.md)
+- [Learning Plan](./learning-plan/index.md)
 
 ## Markdown Resource
 
