@@ -54,7 +54,7 @@ All of these courses are taken from the full library below. Before starting a ne
     - another entire section to review good explainations of `memo`, `useCallback` and `useMemo`
   - Section 15: Sending Http Requests (e.g. Connecting to a Database)
     - [Handling HTTP Errors (vid 237)](https://google.com) - This video has a good practical example of using a `try...catch` block
-    - [Using Optimistic Updating](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39836976#questions)
+    - [Using Optimistic Updating (vid 241)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39836976#questions)
 
 #### [Server Side Rendering with React and Redux](https://www.udemy.com/course/server-side-rendering-with-react-and-redux/learn) - Stephen Grider
 
