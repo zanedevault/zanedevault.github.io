@@ -154,6 +154,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 **_Player Tracker - General Knowledge - Good to Review_**
 
+- [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - Dr. Angela Yu
 - [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn) - Maximilian Schwarzmüller
 
 ---
@@ -184,7 +185,6 @@ All of these courses are taken from the full library below. Before starting a ne
 
 **_Good to Review_**
 
-- [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - Dr. Angela Yu
 - [The Web Developer Bootcamp 2024](https://www.udemy.com/course/the-web-developer-bootcamp/learn) - Colt Steele
 - [100 Days Of Code - 2024 Web Development Bootcamp](https://www.udemy.com/course/100-days-of-code-web-development-bootcamp/learn) - Maximilian Schwarzmüller
 - [Next JS & WordPress: Build rapid NextJS sites with Next & WP](https://www.udemy.com/course/next-js-wordpress/learn) - Tom Phillips
