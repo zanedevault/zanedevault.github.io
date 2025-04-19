@@ -29,7 +29,7 @@ All of these courses are taken from the full library below. Before starting a ne
 - **VIDEOS THAT WOULD BE GOOD TO REVIEW:** _the rest of the videos can safely be ignored_
 
   - any module summary or introduction
-  - review these notes [JavaScript Dev Notes](file:///Users/zanedevault/Desktop/Dev_Learning/zanes-dev-notes/javascript.md)
+  - review these notes [JavaScript Dev Notes](../dev-notes/javascript.md)
   - Section 4: React Essentials - Deep Dive
     - [Splitting Components (vids 63 - 64)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39659746#overview)
     - [Forwarding Props (vids 65 - 66)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39659750#overview)
