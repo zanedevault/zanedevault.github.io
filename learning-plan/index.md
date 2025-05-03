@@ -55,6 +55,9 @@ All of these courses are taken from the full library below. Before starting a ne
   - Section 15: Sending Http Requests (e.g. Connecting to a Database)
     - [Handling HTTP Errors (vid 237)](https://google.com) - This video has a good practical example of using a `try...catch` block
     - [Using Optimistic Updating (vid 241)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39836976#questions)
+  - Section 16: Building Custom React Hooks
+    - another section to fully review at 2x, especially focusing on:
+    - [Custom Hook: Managing State & Returning State Values (vid 247)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39837058#overview)
 
 #### Other Courses
 
