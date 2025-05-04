@@ -58,6 +58,8 @@ All of these courses are taken from the full library below. Before starting a ne
   - Section 16: Building Custom React Hooks
     - another section to fully review at 2x, especially focusing on:
     - [Custom Hook: Managing State & Returning State Values (vid 247)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39837058#overview)
+  - Section 17: Working with Forms & User Input
+    - another good section to possibly review at 2x - lots of small tips and tricks for working with forms.
 
 #### Other Courses
 
