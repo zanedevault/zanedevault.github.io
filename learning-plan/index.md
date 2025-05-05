@@ -7,13 +7,13 @@ All of these courses are taken from the full library below. Before starting a ne
 ## Courses:
 
 1. [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn) - _(71.5 hrs)_ - Maximilian Schwarzmüller
-2. [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT](https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn) - _(5.5 hrs)_ - Maximilian Schwarzmüller
+2. [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/learn/lecture/22720621#overview) - _(11.5 hrs)_ - Alex Dan
 3. [React & TypeScript - The Practical Guide](https://www.udemy.com/course/react-typescript-the-practical-guide/learn) - _(7.5 hrs)_ - Maximilian Schwarzmüller
-4. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
-   - maybe additional backend courses here (e.g. database)
+4. [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT](https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn) - _(5.5 hrs)_ - Maximilian Schwarzmüller
 5. [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) - _(6.5 hrs)_ - Maximilian Schwarzmüller
-6. [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/learn/lecture/22720621#overview) - _(11.5 hrs)_ - Alex Dan
-7. [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn) - _(19 hrs)_ - Maximilian Schwarzmüller
+6. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
+   - maybe additional backend courses here (e.g. database)
+7. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
 8. [React with Test Driven Development](https://www.udemy.com/course/react-with-test-driven-development/learn) - _(15 hrs)_ - Basar Buyukkahraman
 
 ---
