@@ -7,7 +7,7 @@ All of these courses are taken from the full library below. Before starting a ne
 ## Courses:
 
 1. [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn) - _(71.5 hrs)_ - Maximilian Schwarzmüller
-2. [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/learn/lecture/22720621#overview) - _(11.5 hrs)_ - Alex Dan
+2. [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/learn) - _(5 hrs)_ - Alex Dan
 3. [React & TypeScript - The Practical Guide](https://www.udemy.com/course/react-typescript-the-practical-guide/learn) - _(7.5 hrs)_ - Maximilian Schwarzmüller
 4. [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT](https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn) - _(5.5 hrs)_ - Maximilian Schwarzmüller
 5. [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) - _(6.5 hrs)_ - Maximilian Schwarzmüller
@@ -83,6 +83,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 **_Current Boomi - Player Tracker - General Knowledge_**
 
+- [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/learn) - _(5 hrs)_ - Alex Dan
 - [Unit Testing for Typescript & NodeJs Developers with Jest](https://www.udemy.com/course/unit-testing-typescript-nodejs/learn/lecture/22720621#overview) - _(11.5 hrs)_ - Alex Dan
 - [React Testing Library and Jest: The Complete Guide](https://www.udemy.com/course/react-testing-library-and-jest/learn) - _(7.5 hrs)_ - Stephen Grider
 - [Cypress End-to-End Testing - Getting Started](https://www.udemy.com/course/cypress-end-to-end-testing-getting-started/learn) - _(6 hrs)_ - Maximilian Schwarzmüller
