@@ -119,8 +119,8 @@ All of these courses are taken from the full library below. Before starting a ne
 **_Current Boomi - Player Tracker - General Knowledge_**
 
 - [Node js with Test Driven Development](https://www.udemy.com/course/test-driven-development-with-nodejs/learn) - _(22 hrs)_ - Basar Buyukkahraman
-- [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/learn) - _(25.5 hrs)_ - Stephen Grider
 - [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
+- [Microservices with Node JS and React](https://www.udemy.com/course/microservices-with-node-js-and-react/learn/lecture/19248060#overview) - _(54.5 hrs)_ - Stephen Grider
 
 ---
 
@@ -165,6 +165,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 - [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
 - [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn) - _(19 hrs)_ - Maximilian Schwarzmüller
+- [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/learn/lecture/7593658#overview) - _(25.5 hrs)_ - Stephen Grider
 
 ---
 
