@@ -60,6 +60,10 @@ All of these courses are taken from the full library below. Before starting a ne
     - [Custom Hook: Managing State & Returning State Values (vid 247)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/39837058#overview)
   - Section 17: Working with Forms & User Input
     - another good section to possibly review at 2x - lots of small tips and tricks for working with forms.
+  - Section 18: Handling Forms via Form Actions
+    - this is a very new feature built into React v.19 - fully revisit this section in the future when/if this becomes the standard way to handle form inputs
+    - the second part of this section also includes an example of using Context in React v.19
+    - the second part of this section also includes an example of implementing optimistic updating
 
 #### Other Courses
 
