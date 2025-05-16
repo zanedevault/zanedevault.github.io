@@ -211,6 +211,7 @@ All of these courses are taken from the full library below. Before starting a ne
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) _(6.5 hrs)_ - Maximilian Schwarzmüller
 - [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/learn) _(16 hrs)_ - Colt Steele
 - [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/learn) _(8.5 hrs)_ - Kurt Anderson
+- [Code Reviews for Secure, Clean, and Scalable Code](https://www.udemy.com/course/code-reviews-learnit/learn) _(10.5 hrs)_ - Andrii Piatakha
 - [The Bootstrap 4 Bootcamp](https://www.udemy.com/course/bootstrap-4-bootcamp/learn) _(11.5 hrs)_ - Colt Steele
 - [JavaScript Algorithms and Data Structures Masterclass](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/learn) _(22 hrs)_ - Colt Steele
 - [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/course/webpack-2-the-complete-developers-guide/learn) _(5.5 hrs)_ - Stephen Grider
