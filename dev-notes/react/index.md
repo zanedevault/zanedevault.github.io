@@ -39,7 +39,7 @@ const Button = ({ className, disabled, type, onClick, children }) => {
 };
 
 // You can forward props using the spread operator like this:
-const Button = props => {
+const Button = (props) => {
   return <button {...props} />;
 };
 ```
@@ -85,6 +85,8 @@ However, you should use refs sparingly. In most cases, you should rely on React'
 The **_React Context API_** is used to avoid having to use prop drilling to pass state around an app.
 
 Note: _Context is not optimized for high-frequency updates and might not be suitable for certain performance-critical scenarios._
+
+[_additional details_](./context-details.md)
 
 Here's a simple reference breakdown of the three key parts of React Context, with code examples:
 

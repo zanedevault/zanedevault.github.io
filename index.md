@@ -4,7 +4,7 @@
 
 - [Command Line / Terminal](./dev-notes/command-line.md)
 - [JavaScript](./dev-notes/javascript.md)
-- [React](./dev-notes/react.md)
+- [React](./dev-notes/react/index.md)
 - [Testing](./dev-notes/testing.md)
 
 ## Learning Plan
