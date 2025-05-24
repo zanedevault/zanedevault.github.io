@@ -42,3 +42,5 @@
     - this is a very new feature built into React v.19 - fully revisit this section in the future when/if this becomes the standard way to handle form inputs
     - the second part of this section also includes an example of using Context in React v.19
     - the second part of this section also includes an example of implementing optimistic updating
+  - Section 19: Practice Project: Building a Food Order App
+    - this entire section would be good to review - lots of good bits about structuring a project and also using native browser features
