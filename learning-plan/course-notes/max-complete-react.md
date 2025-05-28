@@ -44,3 +44,8 @@
     - the second part of this section also includes an example of implementing optimistic updating
   - Section 19: Practice Project: Building a Food Order App
     - this entire section would be good to review - lots of good bits about structuring a project and also using native browser features
+  - Section 20: Diving into Redux (An Alternative To The Context AP) - skipped
+  - Section 21: Advanced Redux - skipped
+  - Section 22: Building a Multi-Page SPA with React Router
+    - [Using React Router `loaders` (vids 359 - 366)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/35733932#overview)
+    - [Returning Responses in loader()s (vid 365)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/35733974#overview) - interesting quick aside about the JS Response object
