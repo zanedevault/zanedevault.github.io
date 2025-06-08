@@ -88,6 +88,8 @@ Note: _Context is not optimized for high-frequency updates and might not be suit
 
 [_additional details_](./context-details.md)
 
+_Additional Note:_ There is also a common pattern where you create a custom hook in the `context/UserContext.jsx` file that helps with error prevention, future proofing and other things. See the Claude chat titled [React Router State Preservation Strategies](https://claude.ai/chat/d19ade90-4a3e-477a-bf07-cfe5ba97213f) for additional details.
+
 Here's a simple reference breakdown of the three key parts of React Context, with code examples:
 
 1. **Context Container**
