@@ -13,8 +13,9 @@ All of these courses are taken from the full library below. Before starting a ne
 5. [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) - _(6.5 hrs)_ - Maximilian Schwarzmüller
 6. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
    - maybe additional backend courses here (e.g. database)
-7. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
-8. [React with Test Driven Development](https://www.udemy.com/course/react-with-test-driven-development/learn) - _(15 hrs)_ - Basar Buyukkahraman
+7. [Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/learn/) _(12 hrs)_ - Kurt Anderson
+8. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
+9. [React with Test Driven Development](https://www.udemy.com/course/react-with-test-driven-development/learn) - _(15 hrs)_ - Basar Buyukkahraman
 
 ---
 
@@ -164,6 +165,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 **_Current Boomi - Player Tracker - General Knowledge - Good to Review_**
 
+- [Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/learn/) _(12 hrs)_ - Kurt Anderson
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) _(6.5 hrs)_ - Maximilian Schwarzmüller
 - [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/learn) _(16 hrs)_ - Colt Steele
 - [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/learn) _(8.5 hrs)_ - Kurt Anderson
