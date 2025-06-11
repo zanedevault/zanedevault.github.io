@@ -13,7 +13,7 @@ All of these courses are taken from the full library below. Before starting a ne
 5. [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) - _(6.5 hrs)_ - Maximilian Schwarzmüller
 6. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
    - maybe additional backend courses here (e.g. database)
-7. [Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/learn/) _(12 hrs)_ - Kurt Anderson
+7. [HarvardX: CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) _(~ 24hrs)_ - David J. Malan
 8. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
 9. [React with Test Driven Development](https://www.udemy.com/course/react-with-test-driven-development/learn) - _(15 hrs)_ - Basar Buyukkahraman
 
@@ -165,7 +165,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 **_Current Boomi - Player Tracker - General Knowledge - Good to Review_**
 
-- [Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/learn/) _(12 hrs)_ - Kurt Anderson
+- [HarvardX: CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) _(~ 24hrs)_ - David J. Malan
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) _(6.5 hrs)_ - Maximilian Schwarzmüller
 - [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/learn) _(16 hrs)_ - Colt Steele
 - [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/learn) _(8.5 hrs)_ - Kurt Anderson
@@ -175,6 +175,7 @@ All of these courses are taken from the full library below. Before starting a ne
 - [Webpack 2: The Complete Developer's Guide](https://www.udemy.com/course/webpack-2-the-complete-developers-guide/learn) _(5.5 hrs)_ - Stephen Grider
 - [CSS - The Complete Guide 2024 (incl. Flexbox, Grid & Sass)](https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/learn) _(23 hrs)_ - Maximilian Schwarzmüller
 - [Java Programming for Complete Beginners](https://www.udemy.com/course/java-programming-tutorial-for-beginners/learn) _(59 hrs)_ - in28Minutes Official
+- [Computer Science 101: Master the Theory Behind Programming](https://www.udemy.com/course/computer-science-101-master-the-theory-behind-programming/learn/) _(12 hrs)_ - Kurt Anderson
 
 #### Section Tags:
 
