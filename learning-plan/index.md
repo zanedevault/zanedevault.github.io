@@ -128,6 +128,7 @@ All of these courses are taken from the full library below. Before starting a ne
 - [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
 - [React, NodeJS, Express & MongoDB - The MERN Fullstack Guide](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/learn) - _(19 hrs)_ - Maximilian Schwarzmüller
 - [Node with React: Fullstack Web Development](https://www.udemy.com/course/node-with-react-fullstack-web-development/learn/lecture/7593658#overview) - _(25.5 hrs)_ - Stephen Grider
+- [The Odin Project - Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript)
 
 ---
 
