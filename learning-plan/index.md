@@ -6,16 +6,16 @@ All of these courses are taken from the full library below. Before starting a ne
 
 ## Courses:
 
-1. [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn) - _(71.5 hrs)_ - Maximilian Schwarzmüller - [**Zane's Course Notes**](./course-notes/max-complete-react.md)
+1. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
 2. [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/learn) - _(5 hrs)_ - Alex Dan
 3. [React & TypeScript - The Practical Guide](https://www.udemy.com/course/react-typescript-the-practical-guide/learn) - _(7.5 hrs)_ - Maximilian Schwarzmüller
 4. [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT](https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn) - _(5.5 hrs)_ - Maximilian Schwarzmüller
 5. [AI Agents & Workflows - The Practical Guide](https://www.udemy.com/course/ai-agents-workflows-the-practical-guide/learn) _(4 hrs)_ - Maximilian Schwarzüller
 6. [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) - _(6.5 hrs)_ - Maximilian Schwarzmüller
-7. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
+7. [HarvardX: CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) _(~ 24hrs)_ - David J. Malan
+8. [React - The Complete Guide 2024 (incl. Next.js, Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn) - _(71.5 hrs)_ - Maximilian Schwarzmüller - [**Zane's Course Notes**](./course-notes/max-complete-react.md)
+9. [NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)](https://www.udemy.com/course/nodejs-the-complete-guide/learn) - _(40.5 hrs)_ - Maximilian Schwarzmüller
    - maybe additional backend courses here (e.g. database)
-8. [HarvardX: CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) _(~ 24hrs)_ - David J. Malan
-9. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
 10. [React with Test Driven Development](https://www.udemy.com/course/react-with-test-driven-development/learn) - _(15 hrs)_ - Basar Buyukkahraman
 
 ---
