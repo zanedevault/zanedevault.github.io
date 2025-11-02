@@ -47,5 +47,6 @@
   - Section 20: Diving into Redux (An Alternative To The Context AP) - skipped
   - Section 21: Advanced Redux - skipped
   - Section 22: Building a Multi-Page SPA with React Router
+    - [Understanding Relative & Absolute Paths (vid 354)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/35733882#overview)
     - [Using React Router `loaders` (vids 359 - 366)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/35733932#overview)
     - [Returning Responses in loader()s (vid 365)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/lecture/35733974#overview) - interesting quick aside about the JS Response object
