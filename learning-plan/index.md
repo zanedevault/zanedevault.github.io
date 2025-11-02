@@ -6,7 +6,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 ## Courses:
 
-1. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu
+1. [The Complete Full-Stack Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn) - _(61.5 hrs)_ - Dr. Angela Yu - [**Zane's Course Notes**](./course-notes/angela-complete-full-stack.md)
 2. [React Testing with Jest / Vitest - TypeScript - 2025](https://www.udemy.com/course/typescript-with-react-jest-testing/learn) - _(5 hrs)_ - Alex Dan
 3. [React & TypeScript - The Practical Guide](https://www.udemy.com/course/react-typescript-the-practical-guide/learn) - _(7.5 hrs)_ - Maximilian Schwarzmüller
 4. [AI For Developers With GitHub Copilot, Cursor AI & ChatGPT](https://www.udemy.com/course/ai-for-developers-with-github-copilot-cursor-ai-chatgpt/learn) - _(5.5 hrs)_ - Maximilian Schwarzmüller
