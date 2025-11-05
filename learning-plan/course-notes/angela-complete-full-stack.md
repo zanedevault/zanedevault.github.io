@@ -10,3 +10,4 @@
 - Section 18: Advanced JavaScript and DOM Manipulation
   - [Higher Order Functions and Passing Functions as Arguments (vid 137)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12383962#overview) - this includes a demonstration of using the Chrome debugger
   - [Objects, their Methods and the Dot Notation (vid 142)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384070#overview) - this includes a good explanation of `constructor` functions in JS
+  - [Understanding Callbacks and How to Respond to Events (vid 145)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384168#overview) - another good explanation, this time for callback functions
