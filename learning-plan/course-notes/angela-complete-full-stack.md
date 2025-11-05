@@ -6,4 +6,6 @@
 
 - Section 9: Flexbox - this entire section would be good to review for a deeper understanding of flexbox, she explains details in a very helpful way.
 - Section 15: Intermediate Javascript
-  - [Random Number Generation in Javascript: Building a Love Calculator](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12373892#overview) - this has an awesome explanation of using `Math.random()`
+  - [Random Number Generation in Javascript: Building a Love Calculator (vid 99)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12373892#overview) - this has an awesome explanation of using `Math.random()`
+- Section 18: Advanced JavaScript and DOM Manipulation
+  - [Higher Order Functions and Passing Functions as Arguments (vid 137)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12383962#overview) - this includes a demonstration of using the Chrome debugger
