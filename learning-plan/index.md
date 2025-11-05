@@ -170,6 +170,7 @@ All of these courses are taken from the full library below. Before starting a ne
 - [AI Agents & Workflows - The Practical Guide](https://www.udemy.com/course/ai-agents-workflows-the-practical-guide/learn) _(4 hrs)_ - Maximilian Schwarzüller
 - [HarvardX: CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home) _(~ 24hrs)_ - David J. Malan
 - [Clean Code](https://www.udemy.com/course/writing-clean-code/learn) _(6.5 hrs)_ - Maximilian Schwarzmüller
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial)
 - [The Linux Command Line Bootcamp: Beginner To Power User](https://www.udemy.com/course/the-linux-command-line-bootcamp/learn) _(16 hrs)_ - Colt Steele
 - [Software Engineering 101: Plan and Execute Better Software.](https://www.udemy.com/course/software-engineering-101/learn) _(8.5 hrs)_ - Kurt Anderson
 - [Code Reviews for Secure, Clean, and Scalable Code](https://www.udemy.com/course/code-reviews-learnit/learn) _(10.5 hrs)_ - Andrii Piatakha
