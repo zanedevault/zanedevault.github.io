@@ -14,3 +14,5 @@
 - Section 20: Boss Level Chalenge 2 - The Simon Game - This would be a good section to go through when I want a logic/planning challenge. I wouldn't review this for the jQuery but more for the structuring code / refactoring practice. I think it would be good to just start with the starting files and look at the final game example and try to recreate it from that point. I would probably need to create it then really refactor the code to go from a procedural pattern to a functional / object oriented pattern.
 - Section 21: The Unix Command Line
   - [Command Line Techniques and Directory Navigation](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384404#overview) - This has some cool command line shortcuts
+- Section 24: Express.js with Node.js
+  - [Introduction to Middlewares (vid 205)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38911596#overview) - this video has a good explanation of what middleware is expecially in the context of watching it in the section.
