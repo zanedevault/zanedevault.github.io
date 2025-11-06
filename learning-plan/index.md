@@ -116,6 +116,7 @@ All of these courses are taken from the full library below. Before starting a ne
 
 **_Good to Review_**
 
+- [Learn Git Branching](https://learngitbranching.js.org/)
 - [The Git & Github Bootcamp](https://www.udemy.com/course/git-and-github-bootcamp/learn) - _(17 hrs)_ - Colt Steele
 - [Git & GitHub - The Practical Guide](https://www.udemy.com/course/git-github-practical-guide/learn) - _(10.5 hrs)_ - Maximilian Schwarzmüller
 
