@@ -16,3 +16,5 @@
   - [Command Line Techniques and Directory Navigation](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12384404#overview) - This has some cool command line shortcuts
 - Section 24: Express.js with Node.js
   - [Introduction to Middlewares (vid 205)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38911596#overview) - this video has a good explanation of what middleware is expecially in the context of watching it in the section.
+- Section 28: Applicatoin Programming Interfaces (APIs)
+  - [API Authentication (vid 229)](https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/38912024#overview)
