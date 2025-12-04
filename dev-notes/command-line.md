@@ -2,6 +2,14 @@
 
 ## General Notes
 
+Enable line wrap: `tput smam`
+Disable line wrap: `tput rmam`
+
+`npm run test 2>&1 | tee test-output.txt` - this will run the test script and save the output to a file
+
+Finding a file with Terminal:
+`find . -type f -iname "*string_in_file_name_to_search_for*"`
+
 ## Deleting unused `node_module` directories
 
 `npx npkill` is a helpful tool specifically designed for this purpose.
