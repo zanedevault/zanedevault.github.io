@@ -2,6 +2,8 @@
 
 ## General Notes
 
+`git branch --list '*pattern*'` - list branches matching a pattern
+
 Enable line wrap: `tput smam`
 Disable line wrap: `tput rmam`
 
