@@ -2,8 +2,6 @@
 
 ## General Notes
 
-`git branch --list '*pattern*'` - list branches matching a pattern
-
 Enable line wrap: `tput smam`
 Disable line wrap: `tput rmam`
 
@@ -11,6 +9,17 @@ Disable line wrap: `tput rmam`
 
 Finding a file with Terminal:
 `find . -type f -iname "*string_in_file_name_to_search_for*"`
+
+## Git
+
+`git branch --list '*pattern*'` - list branches matching a pattern
+
+Pull a remote branch:
+`git fetch origin`
+`git checkout <branch_name>`
+
+Git History with author:
+`git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
 
 ## Deleting unused `node_module` directories
 
