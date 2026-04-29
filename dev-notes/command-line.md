@@ -14,11 +14,11 @@ Finding a file with Terminal:
 
 `git branch --list '*pattern*'` - list branches matching a pattern
 
-Pull a remote branch:
-`git fetch origin`
+Pull a remote branch:<br>
+`git fetch origin`<br>
 `git checkout <branch_name>`
 
-Git History with author:
+Git History with author:<br>
 `git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
 
 ## Deleting unused `node_module` directories
