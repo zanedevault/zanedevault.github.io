@@ -21,6 +21,12 @@ Pull a remote branch:<br>
 Git History with author:<br>
 `git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit`
 
+Git Amend a commit<br>
+_this is useful when you notice you missed something after making a commit but **BEFORE** pushing the branch to the shared repo_
+
+- First stage the "fixed" file
+- `git commit --amend -no-edit` - this will add the update to the commit without changing the commit message
+
 ## Deleting unused `node_module` directories
 
 `npx npkill` is a helpful tool specifically designed for this purpose.
