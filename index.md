@@ -1,6 +1,10 @@
 # Dev Notes & Learning Plan
 
-## Dev Notes
+## General Notes
+
+- Actually _writing_ pseudocode is an important step that I shouldn't skip. This helps to breakdown and simplify problems.
+
+## Detailed Dev Notes
 
 - [Command Line / Terminal](./dev-notes/command-line.md)
 - [JavaScript](./dev-notes/javascript.md)
