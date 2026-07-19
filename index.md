@@ -3,6 +3,23 @@
 ## General Notes
 
 - Actually _writing_ pseudocode is an important step that I shouldn't skip. This helps to breakdown and simplify problems.
+- Essentially, computer programming is about taking some input and creating some output. What happens in between the input and output, is what we could call a black box.
+  ![Black Box diagram](./imgs/blackbox.svg)
+- An _algorithm_ is just a step-by-step set of instructions to solve a problem.
+- The basic building blocks of programming:
+  - variables
+  - data types (strings, integers, floats, etc.)
+  - data structures (arrays, objects, tuples, etc.)
+  - conditionals
+  - boolean expressions
+  - loops
+  - functions
+- Most code is built out of three foundational pillars:
+  | Pillar | Purpose | Key Examples |
+  | --------------- | ------------------------------------ | ------------------------------------------------ |
+  | Data | Storing and categorizing information | Variables, Primitive Data Types, Data Structures |
+  | Logic & Control | Directing the flow of execution | Conditionals, Loops, Boolean Expressions |
+  | Abstraction | Bundling and reusing code | Functions, Modules, Classes |
 
 ## Detailed Dev Notes
 
