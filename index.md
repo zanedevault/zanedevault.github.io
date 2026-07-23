@@ -9,7 +9,7 @@
     1. Is there any plausible future caller who wants only one side?
     1. Does the intermediate result (after step 1, before step 2) have a meaningful name/type?
 - Essentially, computer programming is about taking some input and creating some output. What happens in between the input and output, is what we could call a black box.
-  ![Black Box diagram](./imgs/blackbox.svg)
+  <img src="./imgs/blackbox.svg" alt="Black Box diagram" style="max-width: 400px; width: 100%; display: block;" />
 - An _algorithm_ is just a step-by-step set of instructions to solve a problem.
 - The basic building blocks of programming:
   - variables
@@ -20,11 +20,12 @@
   - loops
   - functions
 - Most code is built out of three foundational pillars:
-  | Pillar | Purpose | Key Examples |
-  | --------------- | ------------------------------------ | ------------------------------------------------ |
-  | Data | Storing and categorizing information | Variables, Primitive Data Types, Data Structures |
-  | Logic & Control | Directing the flow of execution | Conditionals, Loops, Boolean Expressions |
-  | Abstraction | Bundling and reusing code | Functions, Modules, Classes |
+
+| Pillar          | Purpose                              | Key Examples                                     |
+| --------------- | ------------------------------------ | ------------------------------------------------ |
+| Data            | Storing and categorizing information | Variables, Primitive Data Types, Data Structures |
+| Logic & Control | Directing the flow of execution      | Conditionals, Loops, Boolean Expressions         |
+| Abstraction     | Bundling and reusing code            | Functions, Modules, Classes                      |
 
 ## Detailed Dev Notes
 
