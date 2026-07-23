@@ -4,9 +4,10 @@
 
 - Actually _writing_ pseudocode is an important step that I shouldn't skip. This helps to breakdown and simplify problems.
   - When writing pseudocode, a useful quick gut-check question set for when I catch myself writing "and":
+    1. If someone asked "what does this do?" Could I answer without using "and" or "then" or "also."
     1. Could I write a unit test for just the first half that would still make sense on its own?
-    2. Is there any plausible future caller who wants only one side?
-    3. Does the intermediate result (after step 1, before step 2) have a meaningful name/type?
+    1. Is there any plausible future caller who wants only one side?
+    1. Does the intermediate result (after step 1, before step 2) have a meaningful name/type?
 - Essentially, computer programming is about taking some input and creating some output. What happens in between the input and output, is what we could call a black box.
   ![Black Box diagram](./imgs/blackbox.svg)
 - An _algorithm_ is just a step-by-step set of instructions to solve a problem.
