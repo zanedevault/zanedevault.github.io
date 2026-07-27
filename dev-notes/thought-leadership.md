@@ -14,7 +14,7 @@ API-First isn't just a best practice — it's the foundational prerequisite for 
    Human developers can read messy docs, make assumptions, and ask questions on Slack. Agents can't — they require strict, machine-readable contracts (OpenAPI/Swagger) with explicit field types, required parameters, and semantic descriptions. Precise contracts also dramatically reduce parameter hallucination when an agent constructs a payload. Writing the spec before the code gives agents self-describing interfaces that carry context, constraints, and intent — no human intervention required.
 
 3. **Granular composability enables dynamic orchestration.**<br>
-   Traditional software hardcodes linear workflows: A → B → C. Agents work differently — they compose their own execution paths at runtime, chaining tools based on changing context. Small, single-responsibility endpoints empower agents to orchestrate Boomi capabilities in ways our engineering teams never had to explicitly hardcode.
+   Traditional software hardcodes linear workflows: A → B → C. Agents work differently — they compose their own execution paths at runtime, chaining tools based on changing context. Small, single-responsibility endpoints empower agents to orchestrate capabilities in ways our engineering teams never had to explicitly hardcode.
 
    ```
    Monolithic / Rigid:   [Input] ---> [Process A -> B -> C] ---> [Output]
