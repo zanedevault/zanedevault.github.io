@@ -33,6 +33,7 @@
 - [JavaScript](./dev-notes/javascript.md)
 - [React](./dev-notes/react/index.md)
 - [Testing](./dev-notes/testing.md)
+- [Definitions](./dev-notes/definitions.md)
 - [Thought Leadership](./dev-notes/thought-leadership.md)
 
 ## Learning Plan
