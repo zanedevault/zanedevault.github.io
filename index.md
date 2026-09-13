@@ -14,6 +14,7 @@
 - The basic building blocks of programming:
   - variables
   - data types (strings, integers, floats, etc.)
+    - a *pointer* is also a data type
   - data structures (arrays, objects, tuples, etc.)
   - conditionals
   - boolean expressions
